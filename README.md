@@ -1,6 +1,6 @@
-## First Run Backend server
+# First Run Backend server
 
-## Install Pakage
+# Install Pakage
 
 ```bash
 
@@ -8,7 +8,7 @@
 
 ```
 
-## Run Application
+# Run Application
 
 ```bash
 
@@ -16,8 +16,8 @@
 
 ```
 
-## Default login
+# Default login
 
-# username : admin
+## username : admin
 
-# password : admin123
+## password : admin123
