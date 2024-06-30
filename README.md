@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 ## First Run Backend server
 
 ## Install Pakage
